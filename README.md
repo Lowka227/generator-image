@@ -4,5 +4,4 @@
 Ниже находится фотография,как это выглядит в самом телеграмме
 
 ## Пример использования бота
-<img width="474" height="657" alt="image" src="https://github.com/user-attachments/assets/bba41d64-8e5a-46b9-8b12-7be9e89b45b4" />
-
+<img width="379" height="533" alt="Снимок экрана 2025-12-07 190859" src="https://github.com/user-attachments/assets/c0201d53-0027-483a-bff8-c537ed8e0363" />
